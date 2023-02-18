@@ -5,7 +5,7 @@
 #### Assets:
 ```
 These are the resources that a company owns or controls and that have economic value. Assets can be categorized as current assets or non-current assets.
-Current assets are assets that are expected to be converted into cash or used up within a year. Examples include cash, [accounts receivable, and inventory](/home/deepak/Documents/Stock_Analysis/AccR_Inventory.md).
+Current assets are assets that are expected to be converted into cash or used up within a year. Examples include cash,[accounts receivable, and inventory](https://github.com/DeepakMishraDA/Stock_Analysis/blob/master/AccR_Inventory.md).
 Non-current assets are assets that are expected to provide economic value for more than one year. Examples include property, plant, and equipment, and long-term investments.
 ```
 #### Liabilities: 
