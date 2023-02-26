@@ -61,3 +61,7 @@ Total Equity: $575,000
 Total Liabilities and Equity: $825,000
 
 ```
+
+In this example, the company has $825,000 in assets, which are divided into current assets ($225,000) and non-current assets ($600,000). The company has $250,000 in liabilities, which are divided into current liabilities ($50,000) and non-current liabilities ($200,000). The company's equity is $575,000, which is made up of common stock ($100,000) and retained earnings ($475,000).
+
+By analyzing a balance sheet, investors and analysts can gain insights into a company's financial position, including its assets, liabilities, and equity, and can use this information to make investment decisions.
